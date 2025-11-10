@@ -27,7 +27,7 @@ android {
     compileSdk 35
 
     defaultConfig {
-        minSdkVersion flutter.minSdkVersion
+        minSdkVersion 23
     }
     lintOptions {
         disable 'InvalidPackage'
